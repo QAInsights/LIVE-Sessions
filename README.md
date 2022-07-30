@@ -1,2 +1,1 @@
-# LIVE-Sessions
-# LIVE-Sessions
+# QAInsights LIVE Sessions Repo
